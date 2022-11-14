@@ -9,11 +9,11 @@ We propose Ground-Fusion: a sensor-fusion SLAM system that features adaptive sen
 
 ## MAIN CONTRIBUTIONS:
 
-We construct the first-ever optimization-based SLAM framework which tightly couples RGB-D images, inertial measurements and wheel odometer. Besides being capable of real-time tracking and dense mapping, the system supports line feature tracking and dynamic object detection as well.
+* We construct the first-ever optimization-based SLAM framework which tightly couples RGB-D images, inertial measurements and wheel odometer. Besides being capable of real-time tracking and dense mapping, the system supports line feature tracking and dynamic object detection as well.
 
- An adaptive sensor selection strategy is adopted to strengthen the robustness and accuracy of the system in various corner cases. 
+ * An adaptive sensor selection strategy is adopted to strengthen the robustness and accuracy of the system in various corner cases. 
 
- We collect a novel multi-sensor SLAM dataset with rich sensory measurements in diverse scenarios, which will be made public upon paper publication.
+ * We collect a novel multi-sensor SLAM dataset with rich sensory measurements in diverse scenarios, which will be made public upon paper publication.
 
 
-Extensive experiments are conducted on public and self-captured datasets, whose results show that our system remarkably outperforms baseline methods in accuracy and robustness.
+* Extensive experiments are conducted on public and self-captured datasets, whose results show that our system remarkably outperforms baseline methods in accuracy and robustness.
